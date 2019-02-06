@@ -2,5 +2,5 @@
 layout: slide
 slide title: "Welcome to our second slide!" 
 ---
-Your text 
+Eat me out
 Use the left arrow to go back!
